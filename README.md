@@ -1,0 +1,2 @@
+# PatronRepositorioaplicada
+Creacion del proyecto
